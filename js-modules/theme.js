@@ -1,5 +1,5 @@
 export default function themeSwitcher() {
-  const LOCAL_STORAGE_PREFIX = "SIMPLE_TEMPLATE"
+  const LOCAL_STORAGE_PREFIX = "CSS-FORM-STYLING"
   const THEME_KEY = `${LOCAL_STORAGE_PREFIX}-theme`
 
   const themeToggler = document.querySelector(".theme-toggler")
